@@ -1,7 +1,25 @@
 {
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jvanduyn/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jvanduyn/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Jvanduyn/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql2": "^3.0.0"
+    "mysql2": "^2.3.3"
   }
 }

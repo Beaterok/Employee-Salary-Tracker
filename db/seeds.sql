@@ -1,10 +1,10 @@
-INSERT INTO Employee (Employee_name)
+INSERT INTO Employee (employee_name)
 VALUES ("Sales"),
        ("Finance"),
        ("Engineering"),
        ("Legal");
 
-INSERT INTO role ( title, salary, Employee_id)
+INSERT INTO role ( title, salary, employee_id)
 VALUES ( "Sales Lead", 100000, 1),
        ( "Salesperson", 80000, 1),
        ("Lead Engineer", 150000, 3),
